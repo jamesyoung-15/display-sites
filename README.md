@@ -1,3 +1,3 @@
-# Random static pages.
+# Random static pages
 
 Quick repo
