@@ -1,4 +1,4 @@
-import { alignProperty } from "@mui/material/styles/cssUtils"
+// import { alignProperty } from "@mui/material/styles/cssUtils"
 import { ImageGallery } from "./components"
 
 function App() {
